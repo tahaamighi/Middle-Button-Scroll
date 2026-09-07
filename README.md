@@ -18,11 +18,13 @@ USEFULL FOR LINUX USERS
 
 [installation]
 
-1.go to chrome://extensions/
+1.Download the file (  https://github.com/tahaamighi/Middle-Button-Scroll/blob/main/middle-scroll.crx  )
 
-2.Enable developer mode
+2.go to chrome://extensions/
 
-3.drag and drop middle-scroll.crx file into chrome
+3.Enable developer mode
+
+4.drag and drop middle-scroll.crx file into chrome
 
 
 .......................................................................
