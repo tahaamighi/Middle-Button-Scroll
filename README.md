@@ -4,6 +4,16 @@ Chrome Extension to scroll using middle button
 
 USEFULL FOR LINUX USERS
 
+
+
+
+
+<img width="267" height="245" alt="image" src="https://github.com/user-attachments/assets/0318b009-bc56-4973-9938-1703b042c32f" />
+
+
+
+
+
 ........................................................................
 
 [installation]
@@ -28,3 +38,5 @@ Sensitivity settings
 ......................................................................
 
 \Made Using AI\
+
+
