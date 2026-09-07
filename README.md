@@ -1,6 +1,6 @@
 # Middle-Button-Scroll
 
-Chrome Extension to scroll using middle button 
+Chrome Extension to scroll using middle mouse button 
 
 USEFULL FOR LINUX USERS
 
